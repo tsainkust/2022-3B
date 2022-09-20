@@ -1,5 +1,5 @@
 # 2022-3B C109118229
-
+Paragraph
 >Chapter 1
 >>1-1
 ---
@@ -20,7 +20,7 @@ Table
 | Banana | 1 | $40 |
 | Orange | 7 | $49 |
 ---
-check box
+Check box
 -  [ ] 1 st
 -  [ ] 2 nd
 -  [x] 3 rd
