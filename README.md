@@ -14,11 +14,11 @@ Reverse Context
 * 3 rd
 ---
 Table
-| Produce | Num | Price |
-|:-----| :------:| -----:|
-| Apple | 2 | $28 |
-| Banana | 1 | $40 |
-| Orange | 7 | $49 |
+|**Tables** |**Are**  |**Cool** |
+|:------|:------:|------:|
+|col 3 is|right-aligned|$1600|
+|col 2 is|centered|$12|
+|zebra stripes|are|$1|
 ---
 Check box
 -  [ ] 1 st
