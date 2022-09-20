@@ -30,3 +30,9 @@ Python Code
 s= "Python syntax highlighting"
 print s
 ```
+---
+JavaScript Code
+```js
+var s = "JavaScript syntax highlighting";
+alert(s);
+```
