@@ -26,7 +26,7 @@ Check box
 -  [x] 3 rd
 ---
 Python Code
-```
+```python
 s= "Python syntax highlighting"
 print s
 ```
