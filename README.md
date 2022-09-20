@@ -25,3 +25,8 @@ Check box
 -  [ ] 2 nd
 -  [x] 3 rd
 ---
+Python Code
+```
+>>>s= "Python syntax highlighting"
+>>>print s
+```
