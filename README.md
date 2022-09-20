@@ -13,7 +13,8 @@
 
 
 
-| Name | Num | Price |
+| Produce | Num | Price |
+| Apple | 2 | 14 |
 |:-----| :------:| -----:|
 
 
