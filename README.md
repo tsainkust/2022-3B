@@ -38,4 +38,4 @@ alert(s);
 ```
 ---
 Viedo Embedded
-[![Microservices + Events + Docker = A Perfect Trio](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://youtu.be/sSm2dRarhPo)
+[![Microservices + Events + Docker = A Perfect Trio]](https://youtu.be/sSm2dRarhPo)
