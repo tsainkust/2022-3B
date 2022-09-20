@@ -14,11 +14,11 @@ Reverse Context
 * 3 rd
 ---
 Table
-|**Tables** |**Are**  |**Cool** |     |**Tables** |**Are**  |**Cool** |
-|:------|:------:|------:|            |:------|:------:|------:|
-|col 3 is|right-aligned|$1600|        |col 3 is|right-aligned|$1600|
-|col 2 is|centered|$12|               |col 2 is|centered|$12|
-|zebra stripes|are|$1|                |zebra stripes|are|$1|
+|**Tables** |**Are**  |**Cool** |
+|:------|:------:|------:|           
+|col 3 is|right-aligned|$1600|     
+|col 2 is|centered|$12|               
+|zebra stripes|are|$1|                
 
 
 
