@@ -27,6 +27,6 @@ Check box
 ---
 Python Code
 ```
->> s= "Python syntax highlighting"
->> print s
+s= "Python syntax highlighting"
+print s
 ```
