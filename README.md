@@ -23,6 +23,6 @@
 
 
 
--  [ ] Finish
--  [ ] Not yet
--  [x] Quit
+-  [ ] 1 st
+-  [ ] 2 nd
+-  [x] 3 rd
