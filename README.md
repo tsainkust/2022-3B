@@ -20,6 +20,10 @@ Table
 |col 2 is|centered|$12|               
 |zebra stripes|are|$1|                
 
+|**Markdown** |**Less**  |**Pretty** |
+|:------|:------:|------:|           
+|still|`renders`|**nicely**|     
+|1 | 2 | 3 |               
 
 
 
