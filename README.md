@@ -46,3 +46,4 @@ alert(s);
 Viedo Embedded
 
 [![Microservices + Events + Docker = A Perfect Trio]](https://youtu.be/sSm2dRarhPo)
+[![Everything Is AWESOME](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Everything Is AWESOME")
