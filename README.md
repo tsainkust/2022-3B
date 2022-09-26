@@ -1,5 +1,5 @@
 # 2022-3B C109118229
-Paragraph
+**Paragraph**
 >Chapter 1
 >>1-1
 ---
@@ -8,12 +8,12 @@ Paragraph
 >>
 >>2-2
 ---
-Reverse Context
+**Reverse Context**
 * 1 st
 * 2 nd
 * 3 rd
 ---
-Table
+**Table**
 |**Tables** |**Are**  |**Cool** |
 |:------|:------:|------:|           
 |col 3 is|right-aligned|$1600|     
@@ -30,23 +30,23 @@ Table
 
 
 ---
-Check box
+**Check box**
 -  [ ] 1 st
 -  [ ] 2 nd
 -  [x] 3 rd
 ---
-Python Code
+**Python Code**
 ```python
 s= "Python syntax highlighting"
 print s
 ```
 ---
-JavaScript Code
+**JavaScript Code**
 ```js
 var s = "JavaScript syntax highlighting";
 alert(s);
 ```
 ---
-Viedo Embedded
+**Viedo Embedded**
 
 [![Everything Is AWESOME](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Everything Is AWESOME")
