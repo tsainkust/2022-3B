@@ -11,6 +11,7 @@ abstract class CShape{
 ```
 
 **CTriangle.java**
+```js
 class CTriangle extends CShape{
     double ca, cb, cc;
     public CTriangle(double a, double b, double c){
@@ -26,3 +27,4 @@ class CTriangle extends CShape{
     }
    
 }
+```
